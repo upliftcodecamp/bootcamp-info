@@ -1,0 +1,147 @@
+[
+  {
+    "__EMPTY": "COURSE INFORMATION"
+  },
+  {
+    "__EMPTY": "Courses",
+    "Uplift Code Camp": "Full Stack Web Development, Short Courses",
+    "The Coding School": "Coding and Design Classes for Kids and Teens",
+    "Avion": "Full Stack Web Development",
+    "UP System Information Technology Foundation": "Short term IT-related courses",
+    "Zuitt": "Full Stack Web Development",
+    "Kodego": "Full Stack Web Development"
+  },
+  {
+    "__EMPTY": "Topics",
+    "Uplift Code Camp": "HTML, CSS, Javascript, React, Nodejs, MongoDB, Programming IQ",
+    "The Coding School": "Various topics. Best to check their website.",
+    "Avion": "HTML, CSS, Javascript, React, Ruby",
+    "UP System Information Technology Foundation": "Various topics. Best to check their website.",
+    "Zuitt": "HTML, CSS, Javascript, React, Nodejs, MongoDB",
+    "Kodego": "HTML, CSS, Javascript, React, PHP, Laravel"
+  },
+  {
+    "__EMPTY": "Schedules",
+    "Uplift Code Camp": "Full time (4 months), Part time (6 months) , Self Paced (2 months per module)",
+    "The Coding School": "Various schedules based on the class. Best to check their website",
+    "Avion": "Full time (3 months), Part time (6 months) ",
+    "UP System Information Technology Foundation": "Mostly one week. Best to check their website.",
+    "Zuitt": "Full time (2 months), Part time (3 months) ",
+    "Kodego": "Full time (3 months), Part time (4 months) "
+  },
+
+  {
+    "__EMPTY": "Class hours",
+    "Uplift Code Camp": "Full time classes are weekdays 8am to 5pm. And Part time classes are weekdays evening and Saturdays half-day.",
+    "The Coding School": "Various schedules based on the class. Best to check their website",
+    "Avion": "Full time classes are weekdays 9am to 8pm. And Part time classes are weeknights 7pm to 9pm and Saturdays 9am to 1pm.",
+    "UP System Information Technology Foundation": "Mostly one week. Best to check their website.",
+    "Zuitt": "Full time classes are weekdays 8am to 5pm. And Part time classes are weeknights 5:30pm to 9:30pm.",
+    "Kodego": "Full time classes are weekdays 9am to 6pm. And Part time classes are Monday to Saturday 7pm to 9pm."
+  },
+  {
+    "__EMPTY": "Admissions",
+    "Uplift Code Camp": "Admissions process has 4 steps: online application, 16-question quiz, interview, micro-project",
+    "The Coding School": "No requirements and exams",
+    "Avion": "Admissions process has 4 steps: an online application, pre-course, applicant screening form, final interview.",
+    "UP System Information Technology Foundation": "No requirements and exams",
+    "Zuitt": "Admissions process has 4 steps: registration, suitability test, online live consultation, interview",
+    "Kodego": "Admissions process has 3 steps: course selection, self assessment, contract"
+  },
+  {
+    "__EMPTY": "Career Support",
+    "Uplift Code Camp": "Yes",
+    "The Coding School": "N/A",
+    "Avion": "Yes",
+    "UP System Information Technology Foundation": "None",
+    "Zuitt": "Yes",
+    "Kodego": "Yes"
+  },
+  {
+    "__EMPTY": "Outcomes",
+    "Uplift Code Camp": "80% of graduates land tech jobs within a month after graduation",
+    "The Coding School": "Check their website for students' projects",
+    "Avion": "We can't find any number. Best to check their website.",
+    "UP System Information Technology Foundation": "We can't find any number. Best to check their website.",
+    "Zuitt": "Instructed more than 2,000 trainees in over 100 batches for above 300 employers while winning a Silver Stevie® Award in 2020 ",
+    "Kodego": "83% of Kodego students are placed into a new IT job before graduation."
+  },
+  {
+    "__EMPTY": "Alumni",
+    "Uplift Code Camp": "[Uplift Students and Alumni in Linkedin](https://www.linkedin.com/school/uplift-code-camp/people/)",
+    "The Coding School": "-",
+    "Avion": "[Avion Students and Alumni in Linkedin](https://www.linkedin.com/school/avionschool/people/)",
+    "UP System Information Technology Foundation": "-",
+    "Zuitt": "[Zuitt Students and Alumni in Linkedin](https://www.linkedin.com/school/zuittcodingbootcamp/people/)",
+    "Kodego": "[Kodego People Linkedin](https://www.linkedin.com/company/kodegoph/people/)"
+  },
+  {
+    "__EMPTY": "Reviews",
+    "Uplift Code Camp": "[Career Karma](https://careerkarma.com/schools/uplift-code-camp/), [Course Report](https://www.coursereport.com/schools/uplift-code-camp)",
+    "The Coding School": "-",
+    "Avion": "[Career Karma](https://careerkarma.com/schools/avion-school/)",
+    "UP System Information Technology Foundation": "-",
+    "Zuitt": "[Career Karma](https://careerkarma.com/schools/zuitt/), [Course Report](https://www.coursereport.com/schools/zuitt)",
+    "Kodego": "[Course Report](https://www.coursereport.com/schools/kodego)"
+  },
+  {
+    "__EMPTY": "FINANCING INFORMATION"
+  },
+  {
+    "__EMPTY": "Tuition",
+    "Uplift Code Camp": "₱58,500 Early Bird Payment with discounts available",
+    "The Coding School": "₱5,000 - ₱9,000 depending on the course.",
+    "Avion": "₱80,000 Full Upfront Payment, ISA at 17% of monthly salary for 2 years",
+    "UP System Information Technology Foundation": "₱5,000 - ₱15,000 depending on the module",
+    "Zuitt": "$1,200 Full Upfront Payment",
+    "Kodego": "ISA at 17% of monthly salary for 2 years"
+  },
+  {
+    "__EMPTY": "Options",
+    "Uplift Code Camp": "Upfront Payment, Monthly Installments, Deferred Tuition, Scholarships",
+    "The Coding School": "Upfront Payment",
+    "Avion": "Upfront Payment, Monthly Installments, ISA",
+    "UP System Information Technology Foundation": "Upfront Payment",
+    "Zuitt": "Upfront Payment, Loan Financing",
+    "Kodego": "ISA"
+  },
+  {
+    "__EMPTY": "COMPANY INFORMATION"
+  },
+  {
+    "__EMPTY": "Year Founded",
+    "Uplift Code Camp": 2019,
+    "The Coding School": 2017,
+    "Avion": 2020,
+    "UP System Information Technology Foundation": "Can't find data on when UPSITF started. ",
+    "Zuitt": 2016,
+    "Kodego": 2020
+  },
+  {
+    "__EMPTY": "Founders",
+    "Uplift Code Camp": "[Genevieve Sarmiento](https://www.linkedin.com/in/genevieve-sarmiento-049b0379),[Michael Booth](https://www.linkedin.com/in/michael-booth-23115547),[Ruffa Carreon](https://www.linkedin.com/in/ruffa-carreon-b7abb983)",
+    "The Coding School": "[Isabel Sieh](https://www.linkedin.com/in/isabel-sieh-9b99a912a/)",
+    "Avion": "[John Young](https://www.linkedin.com/in/work-john-young),[Victor Rivera](https://www.linkedin.com/in/victorjosephrivera)",
+    "UP System Information Technology Foundation": "No data was found for the founder/s specifically. UP SITF is a non-government organization though it is a partner of UP ITDC.",
+    "Zuitt": "[Tomohisa Kato](https://www.linkedin.com/in/tomohisa-kato-97a4601/),[Allister Alambra](https://www.linkedin.com/in/agcalambra/)",
+    "Kodego": "917Ventures"
+  },
+  {
+    "__EMPTY": "Teaching Team",
+    "Uplift Code Camp": "[Uplift Mentors](/courses#teachers)",
+    "The Coding School": "[The Coding School Linkedin](https://www.linkedin.com/company/thecodingschool/people/)",
+    "Avion": "[Avion Linkedin Search](https://www.linkedin.com/search/results/people/?currentCompany=%5B%2265000420%22%5D&origin=COMPANY_PAGE_CANNED_SEARCH&sid=D)",
+    "UP System Information Technology Foundation": "[UPSITF Linkedin Search](https://www.linkedin.com/search/results/people/?currentCompany=%5B%221878222%22%5D&keywords=up%20sitf&origin=FACETED_SEARCH&sid=8ak)",
+    "Zuitt": "[Zuitt Linkedin Search](https://www.linkedin.com/search/results/people/?currentCompany=%5B%2231644058%22%5D&origin=COMPANY_PAGE_CANNED_SEARCH&sid=T2S)",
+    "Kodego": "[Kodego Linkedin](https://www.linkedin.com/company/kodegoph/people/)"
+  },
+  {
+    "__EMPTY": "Website",
+    "Uplift Code Camp": "[Uplift Code Camp](/)",
+    "The Coding School": "[The Coding School](https://coding.ph/)",
+    "Avion": "[Avion](https://www.avionschool.com/)",
+    "UP System Information Technology Foundation": "[UPSITF](https://web.upsitf.org/)",
+    "Zuitt": "[Zuitt](https://zuitt.co/)",
+    "Kodego": "[Kodego](https://kodego.ph/)"
+  }
+]
